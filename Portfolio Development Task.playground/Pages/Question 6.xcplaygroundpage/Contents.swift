@@ -17,8 +17,20 @@
  
  */
 // Answer question 6 below
+let targetDistance = Double(100.0)
 
+var currentDistanceRun = Double(45.5)
 
+if currentDistanceRun <= 10.0 {{
+    print("Great start, keep it up!")
+}
+else if currentDistanceRun >= 45.0 <=50.0 {
+    print()
+}
+else if currentDistanceRun == 50.0 {
+    print()
+}
+}
 /*:
  ## Now share your understanding
  
