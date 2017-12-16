@@ -15,8 +15,12 @@ let isMale = true
 let neverEverSarcastic = true
 
 // Answer question 5 below
-
-
+if (true) {
+    print("Must be Braeckman")
+}
+else {
+    print("Hmm, need more data to be sure.")
+}
 /*:
  ## Now share your understanding
  
