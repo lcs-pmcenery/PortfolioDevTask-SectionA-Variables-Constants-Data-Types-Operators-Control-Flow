@@ -17,9 +17,9 @@
  
  */
 // Answer question 2 below
-let albumName = String("Ukulele Hero")
-var copiesSold = Int(500)
-var suggestedSellingPrice = Double(15.97)
+let albumName = "Ukulele Hero"
+var copiesSold = 500
+var suggestedSellingPrice = 15.97
 /*:
  ## Now share your understanding
  
